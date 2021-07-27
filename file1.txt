@@ -1,2 +1,2 @@
 Hello,I am first file. I am ready to be staged.
-ADDING NEW CHANGE
+Branch2 change
